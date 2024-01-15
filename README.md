@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Script and C
 - 📫 How to reach me just Contact me on whatsapp
-<a href=`http:wa.me/6282239379908`> Click Me! </a>
+- <a href="http:wa.me/6282239379908"> Click Me! </a>
 - 😄 Pronouns: Just a man
 - ⚡ Fun fact: God is good
 
